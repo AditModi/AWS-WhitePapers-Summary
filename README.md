@@ -9,4 +9,5 @@ Each article covers the detailed guide on the entire WhitePaper from the author'
 
 |               | Topic        | Personal Website | 
 | ------------  | ------------ | ---------------- |
-|  1 |  |[ Link ]() 
+|  1 | Data lake |[ Link ]() 
+|  2 | Big Data Analytics Options on AWS |[ Link ]() 
