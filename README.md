@@ -7,6 +7,10 @@ Each article covers the detailed guide on the entire WhitePaper from the author'
 
 ![AWS White Paper Summary](https://user-images.githubusercontent.com/48589838/177525347-0dcf0c42-2a91-48d6-a848-24a8808743cf.jpg)
 
+Feel free to make suggestions, I am open to any advice! You can reach me on [Twitter](https://twitter.com/adi_12_modi) or [LinkedIn](https://www.linkedin.com/in/adit-modi-2a4362191/).
+
+##### Enjoy! 😉👍
+
 |               | Topic        | Personal Website | 
 | ------------  | ------------ | ---------------- |
 |  1 | Data lake |[ Link ]() 
