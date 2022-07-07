@@ -39,11 +39,4 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
 | 22 | Ten Considerations for a Cloud Procurement |[ Link ]() | []()  
 | 23 | Using Microsoft Power BI with the AWS Cloud |[ Link ]() | []()  
 | 24 |  |[ Link ]() | []()  
-| 25 |  |[ Link ]() | []()  
-| 26 |  |[ Link ]() | []()  
-| 27 |  |[ Link ]() | []()  
-| 28 |  |[ Link ]() | []()  
-| 29 |  |[ Link ]() | []()  
-| 30 |  |[ Link ]() | []()  
-| 31 |  |[ Link ]() | []()  
-| 32 |  |[ Link ]() | []()  
+
